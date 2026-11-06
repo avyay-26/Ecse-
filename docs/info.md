@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project implements a single-bit AND gate using digital logic connected to input switches and an output LED.
 
 ## How to test
 
@@ -17,4 +17,4 @@ Explain how to use your project
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Red LED and input DIP switches connected via Wokwi simulation buffers.
